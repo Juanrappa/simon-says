@@ -1,0 +1,22 @@
+{
+  "name": "simon-says",
+  "version": "1.0.0",
+  "description": "juego simon dice",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juanrappa/simon-says.git"
+  },
+  "author": "juan manuel rappa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juanrappa/simon-says/issues"
+  },
+  "homepage": "https://github.com/Juanrappa/simon-says#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
